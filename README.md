@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6bijoy6&label=Profile%20views&color=0e75b6&style=flat" alt="6bijoy6" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS And JS**
+- 🌱 I’m currently learning **React,JS amd Tyescrit**
 
 - 👨‍💻 All of my projects are available [[Available soon]]([Available soon])
 
